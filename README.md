@@ -1,2 +1,2 @@
 # Julia_workspace
-This repo is dedicated to Julia for machine learning intro
+This repo is dedicated to Julia for a machine learning intro
