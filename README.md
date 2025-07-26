@@ -1,2 +1,2 @@
-# Julia_workspace
-This repo is dedicated to Julia for a machine learning intro
+# DSA_workspace
+This repo is dedicated to Data Structure Algorithms (DSA) for python.
